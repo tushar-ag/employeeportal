@@ -1,0 +1,28 @@
+USE [EmployeePortal]
+GO
+/****** Object:  StoredProcedure [dbo].[SearchEmployees]    Script Date: 12/04/2014 14:02:08 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER PROCEDURE [dbo].[SearchEmployees]
+	(
+		@employeeCode varchar(50) = null,
+		@dateOfJoining datetime = null,
+		@firstName varchar(50) = null,
+		@lastName varchar(50) = null,
+		@departmentId int = null
+	)
+	
+	AS
+	BEGIN
+	
+declare @minDate  as datetime
+ select @minDate = cast('1753-01-01 00:00:00' as datetime)
+	select * from Employees e join Departments d on e.DepartmentId = d.DepartmentId
+	where (@employeeCode IS NULL OR (EmployeeCode = @employeeCode))
+		AND (@dateOfJoining =@minDate OR (DateOfJoining = @dateOfJoining))
+		AND (@firstName IS NULL OR (FirstName = @firstName))
+		AND (@lastName IS NULL OR (LastName = @lastName))
+		AND (@departmentId IS NULL OR (e.DepartmentId = @departmentId))	
+	END	
