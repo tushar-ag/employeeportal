@@ -1,0 +1,29 @@
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal - Source Code\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Debug\Nagarro.EmployeePortal.Web.csprojResolveAssemblyReference.cache
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal - Source Code\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.Web.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal - Source Code\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.Web.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal - Source Code\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.BLL.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal - Source Code\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.DAL.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal - Source Code\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.BLL.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal - Source Code\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.DAL.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal - Source Code\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Debug\Nagarro.EmployeePortal.Web.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal - Source Code\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Debug\Nagarro.EmployeePortal.Web.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.Web.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.Web.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.BLL.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.DAL.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.BLL.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.DAL.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Debug\Nagarro.EmployeePortal.Web.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Debug\Nagarro.EmployeePortal.Web.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Debug\Nagarro.EmployeePortal.Web.csprojResolveAssemblyReference.cache
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\04 EmployeePortal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\AjaxControlToolkit.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.Web.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.Web.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.BLL.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.DAL.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.BLL.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\Nagarro.EmployeePortal.DAL.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\EmployeePortal\Nagarro.EmployeePortal.Web\bin\AjaxControlToolkit.pdb
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Debug\Nagarro.EmployeePortal.Web.csprojResolveAssemblyReference.cache
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Debug\Nagarro.EmployeePortal.Web.dll
+C:\Users\tusharagarwal\Desktop\microsoft training module\common\employee portal\EmployeePortal\Nagarro.EmployeePortal.Web\obj\Debug\Nagarro.EmployeePortal.Web.pdb

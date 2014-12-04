@@ -1,0 +1,11 @@
+c:\users\tusharagarwal\documents\visual studio 2012\Projects\Employee.WEB\Employee.WEB\bin\Employee.WEB.dll
+c:\users\tusharagarwal\documents\visual studio 2012\Projects\Employee.WEB\Employee.WEB\bin\Employee.WEB.pdb
+c:\users\tusharagarwal\documents\visual studio 2012\Projects\Employee.WEB\Employee.WEB\obj\Debug\Employee.WEB.dll
+c:\users\tusharagarwal\documents\visual studio 2012\Projects\Employee.WEB\Employee.WEB\obj\Debug\Employee.WEB.pdb
+c:\users\tusharagarwal\documents\visual studio 2012\Projects\Employee.WEB\Employee.WEB\bin\Employee.BLL.dll
+c:\users\tusharagarwal\documents\visual studio 2012\Projects\Employee.WEB\Employee.WEB\bin\Employee.SharedObjects.dll
+c:\users\tusharagarwal\documents\visual studio 2012\Projects\Employee.WEB\Employee.WEB\bin\Employee.DAL.dll
+c:\users\tusharagarwal\documents\visual studio 2012\Projects\Employee.WEB\Employee.WEB\bin\Employee.BLL.pdb
+c:\users\tusharagarwal\documents\visual studio 2012\Projects\Employee.WEB\Employee.WEB\bin\Employee.SharedObjects.pdb
+c:\users\tusharagarwal\documents\visual studio 2012\Projects\Employee.WEB\Employee.WEB\bin\Employee.DAL.pdb
+c:\users\tusharagarwal\documents\visual studio 2012\Projects\Employee.WEB\Employee.WEB\obj\Debug\Employee.WEB.csprojResolveAssemblyReference.cache
